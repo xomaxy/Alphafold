@@ -17,3 +17,6 @@ ANSTVATDEHHHRWNTMILTNERKGPWFIATTR
 ANSTVATDEHHHRWNTMILTNERKTTSNQNTTR
 
 Esto proporcionará una comprensión práctica sobre la importancia de la secuencia en la conformación y función de las proteínas.
+
+# Información del curso
+Este curso es impartido en el COLEGIO DE MATEMÁTICAS BOURBAKI, con los profesores Carlos Alfonso y Álvaro de Obeso. También se contó con la ayuda de Ángel Pedrés, en colaboración con BioPlaster para la elaboración de scripts y ejecución del modelo.
