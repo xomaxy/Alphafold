@@ -11,7 +11,7 @@ Utilizaremos los scripts proporcionados por la comunidad y la capacidad de proce
 ### Links 
 
 #### [Hojas de ColabFold](https://github.com/sokrypton/ColabFold)
-#### [](https://biomedbiotec.encb.ipn.mx/bioinformatica/tablas/aminoacidos.html)
+#### [Tablas Amino](https://biomedbiotec.encb.ipn.mx/bioinformatica/tablas/aminoacidos.html)
 
 # Secuencias de aminoácidos (25 de abril)
 En la clase del 25 de abril, se emplearán las siguientes secuencias de aminoácidos para estudiar cómo las modificaciones en ciertos aminoácidos impactan en la estructura tridimensional y cómo esto se relaciona con sus propiedades químicas:
